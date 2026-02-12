@@ -1,2 +1,5 @@
-This line is from the main branch!
+
+This line is from the main branch
+This line is from feature-conflict-branch!
+ feature-conflict-branch
 hi from the non fast forward branch 
