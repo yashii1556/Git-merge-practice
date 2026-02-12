@@ -1,1 +1,2 @@
+This line is from feature-conflict-branch!
 hi from the non fast forward branch 
